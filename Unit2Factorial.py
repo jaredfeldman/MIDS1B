@@ -1,4 +1,4 @@
-## A recursive function to compute a factorial of an integer
+# A recursive function to compute a factorial of an integer
 num = int(input("Enter an integer: "))
 
 def factorial(n):
