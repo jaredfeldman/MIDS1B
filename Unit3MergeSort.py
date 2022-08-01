@@ -1,4 +1,4 @@
-def merge_sort(A)
+def merge_sort(A):
     """Perform a merge sort on a list, A"""
     # a list with one element is already sorted
     if len(A) < 2: return
